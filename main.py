@@ -66,12 +66,3 @@ print(tweet_str)
 # csv=open(archivo,"w")
 # titles="user_id,user_name,popularity,user_location,tweet_msg"
 
-
-
-
-
-
-# Algunos strings estan codificados, nose en que, y algunos caracteres salen como estos "#PER\u00da / EUROPA / #ASIA / LatAm", aqui \u00da seria igual a Ú,
-# Antes de usuarlos seria decodificar esos strings a lo que pertenescan, derre es utf-8
-
-# Normalice la popularidad para que vaya de 0 a 100 y sea mas facil de graficar
