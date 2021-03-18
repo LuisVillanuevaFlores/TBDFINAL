@@ -2,10 +2,10 @@ import tweepy
 import json
 import pandas as pd
 
-CONSUMER_KEY = 'twZ0LLfkkzHw2LeT349H6WjY6'
-CONSUMER_SECRET = 'SmVMH1KksUlVdGDHdMzqr0zOan5eIPq9rpIMKiI7P2dTSHd8tY'
-ACCESS_TOKEN = '2707859331-x1cLXarR4JXfTh1jOGlTJZ1vcGmuYqDrY0I8UfK'
-ACCESS_TOKEN_SECRET = 'T7xT9QCmxPxiIPpfxGEnD07S3pDHutO809J5CydaKAxpp'
+CONSUMER_KEY = 'tdfdfgdgsc'
+CONSUMER_SECRET = 'dsfsfddsf'
+ACCESS_TOKEN = 'sfcxvxcfv'
+ACCESS_TOKEN_SECRET = 'cvbsdfsdf'
 
 def accept_tweet(tweet):
     THRESHOLD = 3
